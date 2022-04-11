@@ -1,0 +1,26 @@
+{
+  "name": "ewingreply",
+  "version": "0.1.2",
+  "description": "discord.js için mesaj cevaplama modülü",
+  "main": "index.js",
+  "keywords": [
+    "discord.js",
+    "reply",
+    "messagereply",
+    "discordmessagereply",
+    "src",
+    "ewingbaba"
+  ],
+  "author": "Esx_Ewing#2319",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ewingreply": "^0.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewingdev/ewingreply.git"
+  },
+  "author": "ewingdev",
+  "license": "MIT"
+}
